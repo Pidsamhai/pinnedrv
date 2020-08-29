@@ -1,0 +1,3 @@
+include ':pinnedrv'
+include ':app'
+rootProject.name = "Piined RecycleView"
